@@ -126,7 +126,7 @@ namespace RestaurantOtomasyonu
                 else if (secim == 4)
                 {
                     Console.Clear();
-                    break; // Ana menüye dön
+                    break;
                 }
                 else
                 {
